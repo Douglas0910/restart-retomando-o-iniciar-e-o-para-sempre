@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="=q(Q16r*6ES)Kwp6MLWi" x="207" y="-75"><statement name="HANDLER"><block type="device_show_leds" id="1eFe}pGzSNb3-1|WRV%O"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # # # . 
+        # . # . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="|.Yn})oNvv]qL1c9QmNu"><value name="pause"><shadow type="timePicker" id="enIj8n2H@?=6+Eqi/qK@"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="/fqqf5[D}l}C.Y)dZgG;"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # # # . 
+        # . # . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="#4_-Q9uy!/4Gq*nBPVY3"><value name="pause"><shadow type="timePicker" id="`}Cid7i[~.WqENp+44hL"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="YM^Y,[UlKHsZu#%v28m5" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="P1T]zDlvXt|NK;raLRr="><value name="text"><shadow type="text" id="Sev-;d=e*A*wJlz@3im!"><field name="TEXT">Piscar</field></shadow></value></block></statement></block></xml>
